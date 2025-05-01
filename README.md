@@ -5,7 +5,9 @@ The publication provides baseline security control selections for federal inform
  ---
  ---
 
-![image](https://github.com/user-attachments/assets/fc631e5b-be52-4c8f-bede-a826e002dac0)
+![image](https://github.com/user-attachments/assets/c3837e8f-6453-4c73-879c-9180de8dc12c)
+
+
 
 ## 🌎 Click the hyperlinks to view NIST website and the Special Publication 800-53B
 https://www.nist.gov/cybersecurity
