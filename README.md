@@ -10,17 +10,16 @@ The publication provides baseline security control selections for federal inform
 
 
 ## 🌎 Click the hyperlinks to view NIST website and the Special Publication 800-53B
-https://www.nist.gov/cybersecurity
-
-https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53B.pdf
+- https://www.nist.gov/cybersecurity
+- https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53B.pdf
 
 ---
 ## 📜 NIST Special Publication NIST SP 800-40r4
-https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-40r4.pdf
+- https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-40r4.pdf
 
 ## ✅ Best Practices Recommended
-•	Automation: Use tools to scan, deploy, and validate patches across the environment.
-•	Prioritization: Patch the most critical vulnerabilities first, based on real-world risk.
-•	Integration: Align patch management with broader IT and security frameworks (e.g., NIST CSF, RMF).
-•	Communication: Ensure coordination across IT, security, risk, and business teams.
-•	Documentation: Maintain records of patch status, exceptions, and decisions for compliance and audits.
+**Automation:** Use tools to scan, deploy, and validate patches across the environment.
+**Prioritization:** Patch the most critical vulnerabilities first, based on real-world risk.
+**Integration:** Align patch management with broader IT and security frameworks (e.g., NIST CSF, RMF).
+**Communication:** Ensure coordination across IT, security, risk, and business teams.
+**Documentation:** Maintain records of patch status, exceptions, and decisions for compliance and audits.
