@@ -6,11 +6,14 @@ The publication provides baseline security control selections for federal inform
 ![image](https://github.com/user-attachments/assets/c3837e8f-6453-4c73-879c-9180de8dc12c)
 
  ---
+ 
+### An outline aligned with the NIST SP 800-53 framework for security and privacy controls:
 
- ![image](https://github.com/user-attachments/assets/fe1f0840-089c-4b46-9e93-55c2b7f62d22)
+
+![image](https://github.com/user-attachments/assets/791c1abb-2472-414a-8079-11dedc598b57)
 
 
- ---
+
 
 
 
