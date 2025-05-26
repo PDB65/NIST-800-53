@@ -3,6 +3,19 @@
 The publication provides baseline security control selections for federal information systems and organizations, complementing NIST SP 800-53 by offering tailored control sets for different impact levels (low, moderate, and high). It streamlines the implementation of risk-based cybersecurity practices by aligning control baselines with system categorizations under FIPS 199, thereby supporting consistent and efficient security and privacy program development across the federal enterprise.
 
  ---
+ 
+ - Policy and Procedures
+ - Role Base Training 
+ - Individual Access
+ - Least Privilege
+ - Seperation of Duties
+ - Usage Conditions
+ - Account Managememnt
+ - Review User Privileges
+ - Disable Accounts
+ 
+
+ 
  ---
 
 ![image](https://github.com/user-attachments/assets/c3837e8f-6453-4c73-879c-9180de8dc12c)
@@ -16,6 +29,8 @@ The publication provides baseline security control selections for federal inform
 ---
 ## 📜 NIST Special Publication NIST SP 800-40r4
 - https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-40r4.pdf
+
+---
 
 ## ✅ Best Practices Recommended
 **Automation:** Use tools to scan, deploy, and validate patches across the environment.
