@@ -12,9 +12,9 @@ The publication provides baseline security control selections for federal inform
  - Role Base Training 
  - Individual Access
  - Least Privilege
- - Seperation of Duties
+ - Separation  of Duties
  - Usage Conditions
- - Account Managememnt
+ - Account Management
  - Review User Privileges
  - Disable Accounts
  
