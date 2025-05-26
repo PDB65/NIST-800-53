@@ -8,6 +8,7 @@ The publication provides baseline security control selections for federal inform
  ---
  
  - Policy and Procedures
+ - Verify User
  - Role Base Training 
  - Individual Access
  - Least Privilege
@@ -18,7 +19,6 @@ The publication provides baseline security control selections for federal inform
  - Disable Accounts
  
 
- 
  ---
 
 
