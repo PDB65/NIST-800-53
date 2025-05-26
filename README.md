@@ -6,18 +6,9 @@ The publication provides baseline security control selections for federal inform
 ![image](https://github.com/user-attachments/assets/c3837e8f-6453-4c73-879c-9180de8dc12c)
 
  ---
- 
- - Policy and Procedures
- - Verify User
- - Role Base Training 
- - Individual Access
- - Least Privilege
- - Separation  of Duties
- - Usage Conditions
- - Account Management
- - Review User Privileges
- - Disable Accounts
- 
+
+ ![image](https://github.com/user-attachments/assets/fe1f0840-089c-4b46-9e93-55c2b7f62d22)
+
 
  ---
 
